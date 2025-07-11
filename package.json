@@ -1,0 +1,28 @@
+{
+  "name": "reactdev",
+  "version": "1.0.0",
+  "description": "this is namste course",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laxmi079/REACTDEV.git"
+  },
+  "keywords": [
+    "reactn"
+  ],
+  "author": "Laxmi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/laxmi079/REACTDEV/issues"
+  },
+  "homepage": "https://github.com/laxmi079/REACTDEV#readme",
+  "devDependencies": {
+    "parcel": "^2.15.4"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  }
+}
